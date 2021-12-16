@@ -30,11 +30,11 @@
 - I helped local businesses to go online during lockdown by developing e-commerce websites for them (eg- <a href="https://fangpalace.com/">Fangpalace</a>, <a href="https://dosarindustries.com/">Dosar Industries</a>) 
 <br><br>
 
-### Ongoing Project
+### Ongoing Project 🚧
 <hr>
 - I'm currently working on an <a href="https://github.com/iswarmondal/fantastic-fox" >application</a> for connection peoples locally
 
-### Stats
+### Stats 🧭
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=iswarmondal&count_private=true&show_icons=true&theme=vue&border_radius=20" >
 <!--

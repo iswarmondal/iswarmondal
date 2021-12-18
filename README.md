@@ -25,9 +25,9 @@
 
 ### My Experiences 👷‍♂
 <hr>
-- I did an Internship in a media company <a href="https://www.linkedin.com/company/futurex-global/mycompany/">Futurex Global</a> as a front end developer
-- I developed website for <a href="http://www.rampurhatgmch.edu.in/">Rampurhat Govt. Medical College</a>
-- I helped local businesses to go online during lockdown by developing e-commerce websites for them (eg- <a href="https://fangpalace.com/">Fangpalace</a>, <a href="https://dosarindustries.com/">Dosar Industries</a>) 
+- I did an Internship in a media company <a href="https://www.linkedin.com/company/futurex-global/mycompany/">Futurex Global</a> as a front end developer <br> 
+- I developed website for <a href="http://www.rampurhatgmch.edu.in/">Rampurhat Govt. Medical College</a>  <br>
+- I helped local businesses to go online during lockdown by developing e-commerce websites for them (eg- <a href="https://fangpalace.com/">Fangpalace</a>, <a href="https://dosarindustries.com/">Dosar Industries</a>)   <br>
 <br><br>
 
 ### Ongoing Project 🚧

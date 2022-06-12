@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Iswar
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <hr>
 
@@ -7,9 +7,6 @@
 </a>
 <a href="https://twitter.com/IswarMondal19">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" />
-</a>
-<a href="mailto:developeriswar@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178283.png?token=exp=1642070784~hmac=e6b1dc11d2989828bfa28c326423e05a" />
 </a>
 
 <br>

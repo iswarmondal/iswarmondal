@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/iswarmondal/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
-<a href="https://twitter.com/IswarMondal19">
+<a href="https://twitter.com/developeriswar">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" />
 </a>
 

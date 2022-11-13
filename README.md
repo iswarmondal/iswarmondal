@@ -14,7 +14,7 @@
 
 ### About Me 🧘‍♂️
 <hr/>
-🎓 I'm a 2nd year college going, self taught web developer with academic background in physics and computer science.
+🎓 I'm a 3nd year college going, self taught web developer with academic background in physics and computer science.
 <br>
 👨‍💻 I'm passionate about web dev and app dev
 <br>

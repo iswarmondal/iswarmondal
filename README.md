@@ -25,15 +25,17 @@
 - I did an Internship in a media company <a href="https://www.linkedin.com/company/futurex-global/mycompany/">Futurex Global</a> as a front end developer <br> 
 - I developed website for <a href="http://www.rampurhatgmch.edu.in/">Rampurhat Govt. Medical College</a>  <br>
 - I helped local businesses to go online during lockdown by developing e-commerce websites for them (eg- <a href="https://fangpalace.com/">Fangpalace</a>, <a href="https://dosarindustries.com/">Dosar Industries</a>)   <br>
+- Worked as a jr. developer in <a href="https://www.bcmnext.com/">BCM Next</a> <br>
+- Currently working on a chrome extension of <a href="https://netsepio.com/">NetSepio</a>
 <br><br>
 
 ### Ongoing Project 🚧
 <hr>
-- I'm currently working on an <a href="https://github.com/iswarmondal/fantastic-fox" >application</a> for connection peoples locally
-
+- I'm currently working on a crypto wallet https://github.com/NetSepio/ChromiumExtension/
+<!-- 
 ### Stats 🧭
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=iswarmondal&count_private=true&show_icons=true&theme=dracula&border_radius=20" >
+<img src="https://github-readme-stats.vercel.app/api?username=iswarmondal&count_private=true&show_icons=true&theme=dracula&border_radius=20" > -->
 <!--
 Visits
 <img src="https://visitor-badge.laobi.icu/badge?page_id=iswarmondal.iswarmondal">

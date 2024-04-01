@@ -14,29 +14,32 @@
 
 ### About Me 🧘‍♂️
 <hr/>
-🎓 I'm a 3nd year college going, self taught web developer with academic background in physics and computer science.
+🎓 I'm a cat lover full-stack development, wandering around on the internet
 <br>
-👨‍💻 I'm passionate about web dev and app dev
+👨‍💻 Passionate about Flutter, Sveltekit and Pokemon
+<br>
+<br>
+<img src="https://github.com/iswarmondal/iswarmondal/assets/73457704/2d4f826e-1177-4ae1-9e46-16dfd519a259" />
 <br>
 <br>
 
 ### My Experiences 👷‍♂
 <hr>
 - I did an Internship in a media company <a href="https://www.linkedin.com/company/futurex-global/mycompany/">Futurex Global</a> as a front end developer <br> 
-- I developed website for <a href="http://www.rampurhatgmch.edu.in/">Rampurhat Govt. Medical College</a>  <br>
-- I helped local businesses to go online during lockdown by developing e-commerce websites for them (eg- <a href="https://fangpalace.com/">Fangpalace</a>, <a href="https://dosarindustries.com/">Dosar Industries</a>)   <br>
+- I developed website for <a href="http://www.rampurhatgmch.edu.in/">Rampurhat Govt. Medical College</a> with PHP and MySQL  <br>
+- I helped local businesses to go online during lockdown by developing e-commerce websites for them (eg- <a href="https://dosarindustries.com/">Dosar Industries</a>)   <br>
 - Worked as a jr. developer in <a href="https://www.bcmnext.com/">BCM Next</a> <br>
-- Currently working on a chrome extension of <a href="https://netsepio.com/">NetSepio</a>
+- Developed a crypto wallet chrome extension for <a href="https://netsepio.com/">NetSepio</a> using Sveltekit <br>
+- Currently working on revamping traditional news classification system with <a href="https://github.com/iwanalabs/">Iwana Labs</a>
 <br><br>
 
 ### Ongoing Project 🚧
 <hr>
-- I'm currently working on a crypto wallet https://github.com/NetSepio/ChromiumExtension/
-<!-- 
+- I'm currently working on a self classifiying news app https://news.iwanalabs.com/
+
 ### Stats 🧭
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=iswarmondal&count_private=true&show_icons=true&theme=dracula&border_radius=20" > -->
-<!--
-Visits
-<img src="https://visitor-badge.laobi.icu/badge?page_id=iswarmondal.iswarmondal">
--->
+<img src="https://github-readme-stats.vercel.app/api?username=iswarmondal&count_private=true&show_icons=true&theme=dracula&border_radius=20" >
+
+
+

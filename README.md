@@ -1,25 +1,19 @@
+
+<img src="https://i.pinimg.com/originals/bf/cf/48/bfcf48d206e2d19c27705b476a8bfa04.gif" />
+
+
+
+
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
-<hr>
-
-<a href="https://www.linkedin.com/in/iswarmondal/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="https://twitter.com/developeriswar">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" />
-</a>
 
 <br>
 <br>
 
 ### About Me 🧘‍♂️
 <hr/>
-🎓 I'm a cat lover full-stack development, wandering around on the internet
+🎓 I'm a cat-loving full-stack developer, wandering around on the internet
 <br>
 👨‍💻 Passionate about Flutter, Sveltekit and Pokemon
-<br>
-<br>
-<img src="https://github.com/iswarmondal/iswarmondal/assets/73457704/2d4f826e-1177-4ae1-9e46-16dfd519a259" />
 <br>
 <br>
 
@@ -35,11 +29,15 @@
 
 ### Ongoing Project 🚧
 <hr>
-- I'm currently working on a self classifiying news app https://news.iwanalabs.com/
+- I'm currently working on a self-classifying news app https://news.iwanalabs.com/
 
 ### Stats 🧭
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=iswarmondal&count_private=true&show_icons=true&theme=dracula&border_radius=20" >
 
+<br>
 
-
+### <em>Adventures are Epic</em> <a href="https://www.linkedin.com/in/iswarmondal/"><img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  /></a><a href="https://twitter.com/developeriswar"><img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" /></a>
+<hr>
+<br>
+<img src="https://github.com/iswarmondal/iswarmondal/assets/73457704/2d4f826e-1177-4ae1-9e46-16dfd519a259" />

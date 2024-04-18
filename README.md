@@ -23,10 +23,6 @@
 <hr>
 - I'm currently working on a self-classifying news app https://news.iwanalabs.com/
 
-### Stats 🧭
-<hr>
-<img src="https://github-readme-stats.vercel.app/api?username=iswarmondal&count_private=true&show_icons=true&theme=dracula&border_radius=20" >
-
 <br>
 
 ### <em>Adventures are Epic</em> <a href="https://www.linkedin.com/in/iswarmondal/"><img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  /></a><a href="https://twitter.com/developeriswar"><img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" /></a>

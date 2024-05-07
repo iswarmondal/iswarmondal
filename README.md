@@ -1,7 +1,4 @@
 ### Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<img src="https://i.pinimg.com/originals/bf/cf/48/bfcf48d206e2d19c27705b476a8bfa04.gif" />
-
-### About Me 🧘‍♂️
 <hr/>
 🎓 I'm a cat-loving full-stack developer, wandering around on the internet
 <br>
